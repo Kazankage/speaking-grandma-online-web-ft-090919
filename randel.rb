@@ -6,3 +6,5 @@ def speak_to_grandma("")
   else "" == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
+  
+  speak_to_grandma(hi)
