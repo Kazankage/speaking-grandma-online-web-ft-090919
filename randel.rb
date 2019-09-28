@@ -1,8 +1,8 @@
-def speak_to_grandma("")
-  if "" == "I LOVE YOU GRANDMA!"
+def speak_to_grandma(" ")
+  if " " == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
-  if "" != "".upercase
+  if " " != "".upercase
     puts "HUH?! SPEAK UP, SONNY!"
   else 
     puts "NO, NOT SINCE 1938!"
