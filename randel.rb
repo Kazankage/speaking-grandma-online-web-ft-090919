@@ -1,6 +1,6 @@
 def speak_to_grandma("")
   if "" == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN"
+    puts "I LOVE YOU TOO PUMPKIN!"
   end
   if "" != "".upercase
     puts "HUH?! SPEAK UP, SONNY!"
@@ -8,4 +8,5 @@ def speak_to_grandma("")
     puts "NO, NOT SINCE 1938!"
   end
 end
-  speak_to_grandma("hi")
+
+speak_to_grandma("hi")
